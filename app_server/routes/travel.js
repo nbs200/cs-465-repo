@@ -1,3 +1,5 @@
+console.log("Travel router loaded");
+
 var express = require('express');
 var router = express.Router();
 var controller = require('../controllers/travel');
